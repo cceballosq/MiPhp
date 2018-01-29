@@ -19,7 +19,7 @@ $Database = 'DBPRUEBAS';
 mssql_select_db($Database, $conexion) or die("Imposible seleccionar base de datos."); 
 
 
-////
+//////
 
 //************************************************************************************************
 //* sql_server
